@@ -15,10 +15,10 @@
 ## 👨‍💻 About Me
 
 🚀 Software Engineer with **3+ years of experience** building high-performance, data-intensive web applications  
-💼 Currently working at **Trendlyne Technologies**, optimizing fintech applications with React.js  and Django
-🎯 Specialized in **Frontend Technologies** 
-🌱 Building **PreptorAI** - an AI-powered UPSC preparation platform  
-📍 Based in Bangalore, India
+💼 Currently working at **Trendlyne Technologies**, optimizing fintech applications with React.js  and Django  
+🎯 Specialized in **Frontend Technologies**   
+🌱 Building **PreptorAI** - an AI-powered UPSC preparation platform   
+📍 Based in Bangalore, India  
 
 ## 🛠️ Tech Stack
 
